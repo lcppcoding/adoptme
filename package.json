@@ -9,6 +9,8 @@
   },
   "license": "MIT",
   "devDependencies": {
+    "@babel/core": "7.12.16",
+    "@babel/preset-react": "7.12.13",
     "eslint": "7.18.0",
     "eslint-config-prettier": "8.1.0",
     "prettier": "^2.3.2"
@@ -17,5 +19,8 @@
     "parcel": "^2.0.0-beta.2",
     "react": "17.0.1",
     "react-dom": "17.0.1"
-  }
+  },
+  "browserslist": [
+    "last 2 Firefox versions"
+  ]
 }
