@@ -19,7 +19,6 @@ const Results = ({ pets }) => {
         ))
       )}
     </div>
-
   )
 }
 
